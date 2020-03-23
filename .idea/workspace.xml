@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1475ea8-012f-4fac-88e7-1a7142586bfd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZVhrr4oJdYEFne3Hmox2rE9SK0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="OrderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrderTest" />
+      <module name="Objected" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1475ea8-012f-4fac-88e7-1a7142586bfd" name="Default Changelist" comment="" />
+      <created>1584930370851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584930370851</updated>
+      <workItem from="1584930373136" duration="933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2006" height="337" key="GridCell.Tab.0.bottom" timestamp="1584931594449">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state width="2006" height="337" key="GridCell.Tab.0.bottom/0.23.2048.1257@0.23.2048.1257" timestamp="1584931594449" />
+    <state width="2006" height="337" key="GridCell.Tab.0.center" timestamp="1584931594448">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state width="2006" height="337" key="GridCell.Tab.0.center/0.23.2048.1257@0.23.2048.1257" timestamp="1584931594448" />
+    <state width="2006" height="337" key="GridCell.Tab.0.left" timestamp="1584931594447">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state width="2006" height="337" key="GridCell.Tab.0.left/0.23.2048.1257@0.23.2048.1257" timestamp="1584931594447" />
+    <state width="2006" height="337" key="GridCell.Tab.0.right" timestamp="1584931594448">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state width="2006" height="337" key="GridCell.Tab.0.right/0.23.2048.1257@0.23.2048.1257" timestamp="1584931594448" />
+  </component>
+</project>
